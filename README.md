@@ -6,18 +6,18 @@ It's also the fourth project, and the third solo project, part of the Scrimba Co
 I used HTML, CSS and Javascript
 ## What did I learn?
  ### Things explained in the section that this project was
-  - ** arrays: ** what they are and the basic methods that you can use in them
+  - **arrays:** what they are and the basic methods that you can use in them
     - `array.push()` `array.pop()` `array.shift()` `array.unshift()`
-  - ** objects: ** what they are and how to declare them
-  - ** booleans: ** what they are and how to declare them
-  - ** if else statements: ** how and when to use them
-  - ** comparison operators ** that return boolean values only used, for now, in if statements
+  - **objects:** what they are and how to declare them
+  - **booleans:** what they are and how to declare them
+  - **if else statements:** how and when to use them
+  - **comparison operators** that return boolean values only used, for now, in if statements
     - `<=` `===` `<`
-  - ** conditional operators ** to make more complex logical operations
+  - **conditional operators** to make more complex logical operations
     - `&&` `||`
-  - ** Math object: **  used to make random numbers, or remove decimals
+  - **Math object:**  used to make random numbers, or remove decimals
     - `Math.random()` `Math.floor()`
-  - ** return statement ** in functions, to return values outside of the functions
+  - **return statement** in functions, to return values outside of the functions
 ### Why is the website too simple if I know how to make it better?
 I want to only use the things that I learned in the Scrimba course, before doing the project and after I complete the course, return to the projects individually and improve them with all the things necessary for a correct website. I don't want to modify the website too much; and make it difficult to improve or fix after. 
 

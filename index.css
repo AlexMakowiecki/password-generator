@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 100px 50px;
+    background-color:#1F2937;
+
+    font-family: "Karla", sans-serif;
+}
+
+h1{
+    margin-bottom: 10px;
+    color: #FFFFFF;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+#generate-span{
+    display:block;
+    color: #4adf86
+}
+
+h2{
+    margin-bottom: 50px;
+    color:#D5D4D8;
+    font-size:20px;
+    font-weight:normal;
+}
+
+#generate-password-button{
+    margin-bottom: 35px;
+    padding: 10px 15px;
+    background-color: #10B981;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family:inherit;
+}
+
+#passwords-section{
+    padding-top: 40px;
+    display:flex;
+    border-top: 1px solid #2F3E53;
+}
+
+#password1-el, #password2-el{
+    height: 40px;
+    width: 210px;
+    margin: 0;
+    background-color: #273549;
+    border-radius: 5px;
+    color: #55F991;
+    line-height: 40px;
+    text-align:center;
+}
+
+#password1-el{
+  margin-right: 20px;
+}
+
